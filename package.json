@@ -1,0 +1,22 @@
+{
+  "name": "js-asyncronism",
+  "version": "1.0.0",
+  "description": "Examples of how to work with JavaScript asyncronism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCrz/js-asyncronism.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Jose Cuevas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseCrz/js-asyncronism/issues"
+  },
+  "homepage": "https://github.com/JoseCrz/js-asyncronism#readme"
+}
