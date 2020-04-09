@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JoseCrz/js-asyncronism/issues"
   },
-  "homepage": "https://github.com/JoseCrz/js-asyncronism#readme"
+  "homepage": "https://github.com/JoseCrz/js-asyncronism#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
